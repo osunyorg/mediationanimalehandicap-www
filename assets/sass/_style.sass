@@ -1,8 +1,8 @@
 $text-color: #281E32;
-$primary-color: #BDE4A8;
+$primary-color: #D7F2BA;
 $secondary-color: #9CC69B;
 $selection-color: #52A294;
-$background-color: #EDEFE7;
+$background-color: #F2F2F2;
 
 .search-button
     display: none
@@ -10,14 +10,20 @@ $background-color: #EDEFE7;
 h1,h2,h3,h4,h5,h6,p,a,th,td,span
     color: $text-color !important;
 
-.primary-menu
-    background-color: $primary-color;
+.primary-menu, #document-footer
+    background: $background-color !important;
 
 body
-    background-color: $background-color;
-
-footer, button
+    background-color: $primary-color;
+button
     background-color: $secondary-color !important;
+
+button:hover
+    background-color: $selection-color !important;
+    
+.lightbox-button
+    background-color: $background-color !important;
+
 
 h1
     font-size: 48px;
@@ -38,12 +44,8 @@ header#document-header .logo img, footer#document-footer .logo img
 footer#document-footer span
     display: none;
 
-header .container:has(.hero-text) 
-    border-bottom: 10px solid $secondary-color;
-
 .taxonomies-list .dropdown button
     margin-right: 12px !important
 
 .taxonomy-categories ul li a
     background-color: $secondary-color
-    border-color: $text-color
