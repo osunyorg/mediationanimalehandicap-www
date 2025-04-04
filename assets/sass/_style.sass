@@ -1,0 +1,49 @@
+$text-color: #281E32;
+$primary-color: #BDE4A8;
+$secondary-color: #9CC69B;
+$selection-color: #52A294;
+$background-color: #EDEFE7;
+
+.search-button
+    display: none
+
+h1,h2,h3,h4,h5,h6,p,a,th,td,span
+    color: $text-color !important;
+
+.primary-menu
+    background-color: $primary-color;
+
+body
+    background-color: $background-color;
+
+footer, button
+    background-color: $secondary-color !important;
+
+h1
+    font-size: 48px;
+h2
+    font-size: 32px;
+h3
+    font-size: 24px;
+h4
+    font-size: 24px;
+
+p
+    font-size: 18px;
+
+header#document-header .logo img, footer#document-footer .logo img
+    width: 96px;
+    height: 96px !important;
+
+footer#document-footer span
+    display: none;
+
+header .container:has(.hero-text) 
+    border-bottom: 10px solid $secondary-color;
+
+.taxonomies-list .dropdown button
+    margin-right: 12px !important
+
+.taxonomy-categories ul li a
+    background-color: $secondary-color
+    border-color: $text-color
