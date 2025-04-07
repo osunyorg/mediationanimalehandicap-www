@@ -8,11 +8,9 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Pathologies
-  target: "/organisations/categories/pathologies/"
+- title: Thérapies
+  target: "/organisations/categories/therapies/"
   kind: url
   new_tab: false
   children: []
-  path: "/pages/therapies"
-  file: content/fr/pages/therapies/_index.html
 
