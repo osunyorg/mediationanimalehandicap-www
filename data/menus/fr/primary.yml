@@ -9,7 +9,7 @@ items:
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: Thérapies
-  target: "/therapies/"
+  target: therapies
   kind: url
   new_tab: false
   children: []
