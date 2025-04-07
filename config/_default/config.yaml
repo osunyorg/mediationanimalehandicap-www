@@ -1,6 +1,7 @@
 theme: osuny
 _merge: deep
 params:
+  plausible: mediationanimalehandicap.mmibordeaux.com
   summary:
     position: hero
   search:
