@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Organisations
-  target: "/organisations/"
+  target: "/associations/"
   kind: page
   new_tab: false
   children: []
