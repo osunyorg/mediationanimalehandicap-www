@@ -12,8 +12,6 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /therapies/:year-:slug/
-    projects_categories: /therapies/:slug/
     organizations: /associations/:slug/
     organizations_categories: /associations/categories/:slug/
   taxonomies:
