@@ -1,0 +1,4 @@
+organizations:
+  count:
+    one: "1 association"
+    other: "{{ .Count }} associations"

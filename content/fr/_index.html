@@ -1,14 +1,14 @@
 ---
 breadcrumb_title: >-
-  Médiation Animale Handicap
+  Accueil
 title: >-
-  Médiation Animale Handicap
+  Accueil
 bodyclass: >-
    
 url: "/"
 slug: ""
 date: 2025-04-03T10:24:34+02:00
-lastmod: 2025-04-09T10:28:26+02:00
+lastmod: 2025-04-09T17:22:04+02:00
 meta:
   hugo:
     permalink: "/"
@@ -17,7 +17,7 @@ meta:
     slug: ""
   dates:
     created_at: 2025-04-03T10:24:34+02:00
-    updated_at: 2025-04-09T10:28:26+02:00
+    updated_at: 2025-04-09T17:22:04+02:00
     published_at: 2025-04-03T10:24:34+02:00
 search:
   id: "991cc647-85f7-44e7-911f-399882d2aa30"
@@ -25,15 +25,15 @@ search:
   kind: "Communication::Website::Page::Localization"
   lang: "fr"
   title: >-
-    Médiation Animale Handicap
+    Accueil
   summary: >-
-    <p>Ce site web a pour but de fournir des informations sur les différentes thérapies assistées par l’animal disponibles pour les personnes en situation de handicap.</p>
+    <p>Découvrez les associations de médiation animale.</p>
   body: >-
-    
+    <p>  <br>Ce site web a pour but de fournir des informations sur les différentes thérapies assistées par l'animal disponibles pour les personnes en situation de handicap.</p>  <p> Thérapies </p>  <p> Animaux </p>  <p> Pathologies </p>
 
 breadcrumbs:
   - title: >-
-      Médiation Animale Handicap
+      Accueil
 
 design:
   full_width: true
@@ -50,12 +50,13 @@ translationKey: communication-website-page-1bf1d0c9-d31e-4f41-8c93-2fc2a3b06b96
 
 children:
   - "organizations/_index.html"
-  - "pages/therapies/_index.html"
+  - "projects/_index.html"
+  - "pages/a-propos/_index.html"
 meta_description: >-
   
 
 summary: >-
-  <p>Ce site web a pour but de fournir des informations sur les différentes thérapies assistées par l’animal disponibles pour les personnes en situation de handicap.</p>
+  <p>Découvrez les associations de médiation animale.</p>
 
 header_text: >-
   Médiation Animale Handicap
@@ -67,12 +68,12 @@ header_cta:
   external: false
 
 contents_reading_time:
-  seconds: 0
+  seconds: 8
   text: >-
     moins d'une minute
 contents:
   - kind: block
-    template: call_to_action
+    template: chapter
     title: >-
       
     slug: >-
@@ -82,8 +83,11 @@ contents:
     top:
       active: false
     data:
-      layout: accent_background
+      layout: no_background
       text: >-
+        <p>Ce site web a pour but de fournir des informations sur les différentes thérapies assistées par l'animal disponibles pour les personnes en situation de handicap.</p>
+
+      notes: >-
         
 
 
@@ -93,7 +97,248 @@ contents:
       credit: >-
         
 
-      buttons:
+
+
+  - kind: block
+    template: pages
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+    data:
+      options:
+        image: true
+        main_summary: true
+        summary: true
+
+      layout: large
+      pages:
+        - permalink: "/associations/"
+          path: "/organizations"
+          slug: "associations"
+          file: "content/fr/organizations/_index.html"
+
+
+
+  - kind: block
+    template: categories
+    title: >-
+      Thérapies
+    slug: >-
+      therapies
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Thérapies
+        heading: 2
+    data:
+      layout: list
+      description: >-
+        
+
+      options:
+        count: true
+        image: false
+        summary: false
+
+      category_kind: organizations
+      taxonomy_id: 990ccb33-8d05-433d-8e48-f8e9d7fd9436
+
+      taxonomy:
+        permalink: "/associations/categories/therapies/"
+        path: "/organizations_categories/therapies"
+        slug: "therapies"
+        file: "content/fr/organizations_categories/therapies/_index.html"
+        name: "Thérapies"
+      categories:
+        - permalink: "/associations/categories/therapies/equitherapie/"
+          path: "/organizations_categories/therapies/equitherapie"
+          slug: "therapies/equitherapie"
+          file: "content/fr/organizations_categories/therapies/equitherapie/_index.html"
+          name: "Thérapies"
+          count: 1
+        - permalink: "/associations/categories/therapies/cynotherapie/"
+          path: "/organizations_categories/therapies/cynotherapie"
+          slug: "therapies/cynotherapie"
+          file: "content/fr/organizations_categories/therapies/cynotherapie/_index.html"
+          name: "Thérapies"
+          count: 2
+
+
+  - kind: block
+    template: categories
+    title: >-
+      Animaux
+    slug: >-
+      animaux
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Animaux
+        heading: 2
+    data:
+      layout: grid
+      description: >-
+        
+
+      options:
+        count: true
+        image: true
+        summary: true
+
+      category_kind: organizations
+      taxonomy_id: ba28cc01-4a65-4741-8a14-9e8e54a4f808
+
+      taxonomy:
+        permalink: "/associations/categories/animaux/"
+        path: "/organizations_categories/animaux"
+        slug: "animaux"
+        file: "content/fr/organizations_categories/animaux/_index.html"
+        name: "Animaux"
+      categories:
+        - permalink: "/associations/categories/animaux/anes/"
+          path: "/organizations_categories/animaux/anes"
+          slug: "animaux/anes"
+          file: "content/fr/organizations_categories/animaux/anes/_index.html"
+          name: "Animaux"
+          count: 1
+        - permalink: "/associations/categories/animaux/chevaux/"
+          path: "/organizations_categories/animaux/chevaux"
+          slug: "animaux/chevaux"
+          file: "content/fr/organizations_categories/animaux/chevaux/_index.html"
+          name: "Animaux"
+          count: 3
+        - permalink: "/associations/categories/animaux/chiens/"
+          path: "/organizations_categories/animaux/chiens"
+          slug: "animaux/chiens"
+          file: "content/fr/organizations_categories/animaux/chiens/_index.html"
+          name: "Animaux"
+          count: 15
+        - permalink: "/associations/categories/animaux/cochons-d-inde/"
+          path: "/organizations_categories/animaux/cochons-d-inde"
+          slug: "animaux/cochons-d-inde"
+          file: "content/fr/organizations_categories/animaux/cochons-d-inde/_index.html"
+          name: "Animaux"
+          count: 4
+        - permalink: "/associations/categories/animaux/lapins/"
+          path: "/organizations_categories/animaux/lapins"
+          slug: "animaux/lapins"
+          file: "content/fr/organizations_categories/animaux/lapins/_index.html"
+          name: "Animaux"
+          count: 3
+        - permalink: "/associations/categories/animaux/moutons/"
+          path: "/organizations_categories/animaux/moutons"
+          slug: "animaux/moutons"
+          file: "content/fr/organizations_categories/animaux/moutons/_index.html"
+          name: "Animaux"
+          count: 1
+        - permalink: "/associations/categories/animaux/poules/"
+          path: "/organizations_categories/animaux/poules"
+          slug: "animaux/poules"
+          file: "content/fr/organizations_categories/animaux/poules/_index.html"
+          name: "Animaux"
+          count: 2
+
+
+  - kind: block
+    template: categories
+    title: >-
+      Pathologies
+    slug: >-
+      pathologies
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Pathologies
+        heading: 2
+    data:
+      layout: list
+      description: >-
+        
+
+      options:
+        count: true
+        image: false
+        summary: true
+
+      category_kind: organizations
+      taxonomy_id: b08cc392-3eb1-43ef-8559-328584e07bd5
+
+      taxonomy:
+        permalink: "/associations/categories/pathologies/"
+        path: "/organizations_categories/pathologies"
+        slug: "pathologies"
+        file: "content/fr/organizations_categories/pathologies/_index.html"
+        name: "Pathologies"
+      categories:
+        - permalink: "/associations/categories/pathologies/diabete/"
+          path: "/organizations_categories/pathologies/diabete"
+          slug: "pathologies/diabete"
+          file: "content/fr/organizations_categories/pathologies/diabete/_index.html"
+          name: "Pathologies"
+          count: 3
+        - permalink: "/associations/categories/pathologies/handicaps-cognitifs/"
+          path: "/organizations_categories/pathologies/handicaps-cognitifs"
+          slug: "pathologies/handicaps-cognitifs"
+          file: "content/fr/organizations_categories/pathologies/handicaps-cognitifs/_index.html"
+          name: "Pathologies"
+          count: 6
+        - permalink: "/associations/categories/pathologies/handicaps-moteurs/"
+          path: "/organizations_categories/pathologies/handicaps-moteurs"
+          slug: "pathologies/handicaps-moteurs"
+          file: "content/fr/organizations_categories/pathologies/handicaps-moteurs/_index.html"
+          name: "Pathologies"
+          count: 11
+        - permalink: "/associations/categories/pathologies/malentendance/"
+          path: "/organizations_categories/pathologies/malentendance"
+          slug: "pathologies/malentendance"
+          file: "content/fr/organizations_categories/pathologies/malentendance/_index.html"
+          name: "Pathologies"
+          count: 6
+        - permalink: "/associations/categories/pathologies/malvoyance/"
+          path: "/organizations_categories/pathologies/malvoyance"
+          slug: "pathologies/malvoyance"
+          file: "content/fr/organizations_categories/pathologies/malvoyance/_index.html"
+          name: "Pathologies"
+          count: 7
+        - permalink: "/associations/categories/pathologies/syndrome-de-down/"
+          path: "/organizations_categories/pathologies/syndrome-de-down"
+          slug: "pathologies/syndrome-de-down"
+          file: "content/fr/organizations_categories/pathologies/syndrome-de-down/_index.html"
+          name: "Pathologies"
+          count: 1
+        - permalink: "/associations/categories/pathologies/troubles-psychiques/"
+          path: "/organizations_categories/pathologies/troubles-psychiques"
+          slug: "pathologies/troubles-psychiques"
+          file: "content/fr/organizations_categories/pathologies/troubles-psychiques/_index.html"
+          name: "Pathologies"
+          count: 8
+        - permalink: "/associations/categories/pathologies/troubles-du-spectre-autistique/"
+          path: "/organizations_categories/pathologies/troubles-du-spectre-autistique"
+          slug: "pathologies/troubles-du-spectre-autistique"
+          file: "content/fr/organizations_categories/pathologies/troubles-du-spectre-autistique/_index.html"
+          name: "Pathologies"
+          count: 7
 
 
 
