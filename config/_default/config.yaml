@@ -7,5 +7,5 @@ params:
   search:
     active: true
   logo:
-    header: "/assets/images/logo.svg"
+    header: "/assets/images/logo-white.svg"
     footer: "/assets/images/logo-white.svg"

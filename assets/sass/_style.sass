@@ -1,4 +1,4 @@
-$text-color: #284430;
+$text-color: #314336;
 $primary-color: #D4FFE0;
 $secondary-color: #bbfaba;
 $selection-color: #96e6b3;
@@ -6,20 +6,18 @@ $background-color: #f1fffa
 
 .search-button
     display: none
-body
-    background-color: $background-color !important
+
 h1,h2,h3,h4,h5,h6,p,a,th,td,span
     color: $text-color !important;
 
-.primary-menu
-    background: $primary-color !important;
+#document-footer h1,#document-footer h2,#document-footer h3,#document-footer h4,#document-footer h5,#document-footer h6,#document-footer p,#document-footer a,#document-footer th,#document-footer td,#document-footer span, .primary-menu h1,.primary-menu h2,.primary-menu h3,.primary-menu h4,.primary-menu h5,.primary-menu h6,.primary-menu p,.primary-menu a,.primary-menu th,.primary-menu td,.primary-menu span
+    color: $background-color !important
 
-#document-footer
+
+#document-footer, .primary-menu
     background: $text-color !important
-#document-footer h1,#document-footer h2,#document-footer h3,#document-footer h4,#document-footer h5,#document-footer h6,#document-footer p,#document-footer a,#document-footer th,#document-footer td,#document-footer span
-    color: $primary-color !important
-
-
+ 
+    
 button:not(:has(img))
     background-color: $secondary-color !important;
 
@@ -77,3 +75,7 @@ footer#document-footer
                 display: inline-block
             .nav-legal li
                 margin-right: $spacing-3
+
+
+body
+    background-color: white !important
