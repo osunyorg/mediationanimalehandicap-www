@@ -1,1 +1,3 @@
 default:
+  shared_image:
+    id: 1cf1c393-795d-4d02-bd71-b7a172a7ea27
