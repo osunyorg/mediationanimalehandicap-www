@@ -7,6 +7,11 @@ osuny:
   website:
     id: 22b4ce90-fc86-474a-9afa-6aebc33a278f
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "mediationanimalehandicap.mmibordeaux.com"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
