@@ -15,282 +15,282 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/organisations/categories/animaux/moutons/"
+from = "/organisations/categories/animaux/moutons/index.html"
 to = "/associations/categories/animaux/moutons/"
 
 [[redirects]]
-from = "/therapies/animaux/chien/"
+from = "/therapies/animaux/chien/index.html"
 to = "/therapies/animaux/chiens/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/"
+from = "/organisations/categories/pathologies/index.html"
 to = "/associations/categories/pathologies/"
 
 [[redirects]]
-from = "/organisations/psychien/"
+from = "/organisations/psychien/index.html"
 to = "/associations/psychien/"
 
 [[redirects]]
-from = "/matthias-oudart/"
+from = "/matthias-oudart/index.html"
 to = "/equipe/matthias-oudart/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/handicaps-cognitifs/"
+from = "/organisations/categories/pathologies/handicaps-cognitifs/index.html"
 to = "/associations/categories/pathologies/handicaps-cognitifs/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/troubles-du-spectre-autistique/"
+from = "/organisations/categories/pathologies/troubles-du-spectre-autistique/index.html"
 to = "/associations/categories/pathologies/troubles-du-spectre-autistique/"
 
 [[redirects]]
-from = "/organisations/categories/publics/adultes/"
+from = "/organisations/categories/publics/adultes/index.html"
 to = "/associations/categories/publics/adultes/"
 
 [[redirects]]
-from = "/therapies/handicaps-cognitifs/"
+from = "/therapies/handicaps-cognitifs/index.html"
 to = "/therapies/pathologies/handicaps-cognitifs/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/anes/"
+from = "/organisations/categories/animaux/anes/index.html"
 to = "/associations/categories/animaux/anes/"
 
 [[redirects]]
-from = "/organisations/fondation-frederic-gaillainne/"
+from = "/organisations/fondation-frederic-gaillainne/index.html"
 to = "/associations/fondation-frederic-gaillanne/"
 
 [[redirects]]
-from = "/organisations/chiens-guides-lyon-grand-est/"
+from = "/organisations/chiens-guides-lyon-grand-est/index.html"
 to = "/associations/chiens-guides-lyon-grand-est/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/syndrome-de-down/"
+from = "/organisations/categories/pathologies/syndrome-de-down/index.html"
 to = "/associations/categories/pathologies/syndrome-de-down/"
 
 [[redirects]]
-from = "/therapies/diabetes/"
+from = "/therapies/diabetes/index.html"
 to = "/therapies/pathologies/diabetes/"
 
 [[redirects]]
-from = "/cesar-morel-1/"
+from = "/cesar-morel-1/index.html"
 to = "/equipe/cesar-morel-1/"
 
 [[redirects]]
-from = "/organisations/cercle-canin-de-lentre-canin-2-mers/"
+from = "/organisations/cercle-canin-de-lentre-canin-2-mers/index.html"
 to = "/associations/cercle-canin-de-lentre-canin-2-mers/"
 
 [[redirects]]
-from = "/organisations/categories/publics/"
+from = "/organisations/categories/publics/index.html"
 to = "/associations/categories/publics/"
 
 [[redirects]]
-from = "/organisations/animalsens/"
+from = "/organisations/animalsens/index.html"
 to = "/associations/animal-et-sens/"
 
 [[redirects]]
-from = "/organisations/categories/therapies/cynotherapie/"
+from = "/organisations/categories/therapies/cynotherapie/index.html"
 to = "/associations/categories/therapies/cynotherapie/"
 
 [[redirects]]
-from = "/organisations/kdog-institut-curie/"
+from = "/organisations/kdog-institut-curie/index.html"
 to = "/associations/kdog-institut-curie/"
 
 [[redirects]]
-from = "/equipe/amelie-savary-tolstoi-1/"
+from = "/equipe/amelie-savary-tolstoi-1/index.html"
 to = "/equipe/amelie-savary-tolstoi/"
 
 [[redirects]]
-from = "/organisations/les-chiens-du-silence/"
+from = "/organisations/les-chiens-du-silence/index.html"
 to = "/associations/les-chiens-du-silence/"
 
 [[redirects]]
-from = "/organisations/handichiens/"
+from = "/organisations/handichiens/index.html"
 to = "/associations/handichiens/"
 
 [[redirects]]
-from = "/organisations/categories/therapies/"
+from = "/organisations/categories/therapies/index.html"
 to = "/associations/categories/therapies/"
 
 [[redirects]]
-from = "/organisations/categories/therapies/equitherapie/"
+from = "/organisations/categories/therapies/equitherapie/index.html"
 to = "/associations/categories/therapies/equitherapie/"
 
 [[redirects]]
-from = "/organisations/categories/public/adolescents/"
+from = "/organisations/categories/public/adolescents/index.html"
 to = "/associations/categories/publics/adolescents/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/diabete/"
+from = "/organisations/categories/pathologies/diabete/index.html"
 to = "/associations/categories/pathologies/diabete/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/cochons-d-inde/"
+from = "/organisations/categories/animaux/cochons-d-inde/index.html"
 to = "/associations/categories/animaux/cochons-d-inde/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/"
+from = "/organisations/categories/animaux/index.html"
 to = "/associations/categories/animaux/"
 
 [[redirects]]
-from = "/organisations/association-chiens-guides-grand-sud-ouest-alienor-bordeaux/"
+from = "/organisations/association-chiens-guides-grand-sud-ouest-alienor-bordeaux/index.html"
 to = "/associations/association-chiens-guides-grand-sud-ouest-alienor-bordeaux/"
 
 [[redirects]]
-from = "/organisations/equivia/"
+from = "/organisations/equivia/index.html"
 to = "/associations/equivia/"
 
 [[redirects]]
-from = "/organisations/la-cape/"
+from = "/organisations/la-cape/index.html"
 to = "/associations/la-cape/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/troubles-psychiques/"
+from = "/organisations/categories/pathologies/troubles-psychiques/index.html"
 to = "/associations/categories/pathologies/troubles-psychiques/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/poules/"
+from = "/organisations/categories/animaux/poules/index.html"
 to = "/associations/categories/animaux/poules/"
 
 [[redirects]]
-from = "/amelie-savary-tolstoi/"
+from = "/amelie-savary-tolstoi/index.html"
 to = "/equipe/amelie-savary-tolstoi/"
 
 [[redirects]]
-from = "/organisations/canidea/"
+from = "/organisations/canidea/index.html"
 to = "/associations/canidea/"
 
 [[redirects]]
-from = "/organisations/categories/publics/tout-public/"
+from = "/organisations/categories/publics/tout-public/index.html"
 to = "/associations/categories/publics/tout-public/"
 
 [[redirects]]
-from = "/amelie-perrot/"
+from = "/amelie-perrot/index.html"
 to = "/equipe/amelie-perrot/"
 
 [[redirects]]
-from = "/mael-ledrin/"
+from = "/mael-ledrin/index.html"
 to = "/equipe/mael-ledrin/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/handicaps-moteurs/"
+from = "/organisations/categories/pathologies/handicaps-moteurs/index.html"
 to = "/associations/categories/pathologies/handicaps-moteurs/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/therapies/"
 
 [[redirects]]
-from = "/organisations/fcapi/"
+from = "/organisations/fcapi/index.html"
 to = "/associations/fcapi/"
 
 [[redirects]]
-from = "/organisations/entre-deux-mers/"
+from = "/organisations/entre-deux-mers/index.html"
 to = "/associations/cercle-canin-de-lentre-canin-2-mers/"
 
 [[redirects]]
-from = "/organisations/lempreinte-en-gironde/"
+from = "/organisations/lempreinte-en-gironde/index.html"
 to = "/associations/lempreinte-en-gironde/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/chevaux/"
+from = "/organisations/categories/animaux/chevaux/index.html"
 to = "/associations/categories/animaux/chevaux/"
 
 [[redirects]]
-from = "/organisations/fondation-frederic-gaillanne/"
+from = "/organisations/fondation-frederic-gaillanne/index.html"
 to = "/associations/fondation-frederic-gaillanne/"
 
 [[redirects]]
-from = "/edouard-fort/"
+from = "/edouard-fort/index.html"
 to = "/equipe/edouard-fort/"
 
 [[redirects]]
-from = "/organisations/categories/publics/adolescents/"
+from = "/organisations/categories/publics/adolescents/index.html"
 to = "/associations/categories/publics/adolescents/"
 
 [[redirects]]
-from = "/organisations/categories/publics/enfants/"
+from = "/organisations/categories/publics/enfants/index.html"
 to = "/associations/categories/publics/enfants/"
 
 [[redirects]]
-from = "/organisations/categories/public/tout-public/"
+from = "/organisations/categories/public/tout-public/index.html"
 to = "/associations/categories/publics/tout-public/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/associations/"
 
 [[redirects]]
-from = "/organisations/chiens-mediateurs-et-dutilites/"
+from = "/organisations/chiens-mediateurs-et-dutilites/index.html"
 to = "/associations/chiens-mediateurs-et-dutilites/"
 
 [[redirects]]
-from = "/adrian-delgado/"
+from = "/adrian-delgado/index.html"
 to = "/equipe/adrian-delgado/"
 
 [[redirects]]
-from = "/organisations/categories/publics/seniors/"
+from = "/organisations/categories/publics/seniors/index.html"
 to = "/associations/categories/publics/seniors/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/chiens/"
+from = "/organisations/categories/animaux/chiens/index.html"
 to = "/associations/categories/animaux/chiens/"
 
 [[redirects]]
-from = "/organisations/categories/public/"
+from = "/organisations/categories/public/index.html"
 to = "/associations/categories/publics/"
 
 [[redirects]]
-from = "/lea-lafaye/"
+from = "/lea-lafaye/index.html"
 to = "/equipe/lea-lafaye/"
 
 [[redirects]]
-from = "/organisations/a-leau-terre-neuve-gironde/"
+from = "/organisations/a-leau-terre-neuve-gironde/index.html"
 to = "/associations/a-leau-terre-neuve-gironde/"
 
 [[redirects]]
-from = "/organisations/categories/public/adultes/"
+from = "/organisations/categories/public/adultes/index.html"
 to = "/associations/categories/publics/adultes/"
 
 [[redirects]]
-from = "/organisations/animal-et-sens/"
+from = "/organisations/animal-et-sens/index.html"
 to = "/associations/animal-et-sens/"
 
 [[redirects]]
-from = "/organisations/categories/public/enfants/"
+from = "/organisations/categories/public/enfants/index.html"
 to = "/associations/categories/publics/enfants/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/malentendance/"
+from = "/organisations/categories/pathologies/malentendance/index.html"
 to = "/associations/categories/pathologies/malentendance/"
 
 [[redirects]]
-from = "/organisations/m-en-rouge/"
+from = "/organisations/m-en-rouge/index.html"
 to = "/associations/m-en-rouge/"
 
 [[redirects]]
-from = "/agathe-lb/"
+from = "/agathe-lb/index.html"
 to = "/equipe/agathe-lb/"
 
 [[redirects]]
-from = "/organisations/lempreinte-gironde/"
+from = "/organisations/lempreinte-gironde/index.html"
 to = "/associations/lempreinte-en-gironde/"
 
 [[redirects]]
-from = "/organisations/acadia/"
+from = "/organisations/acadia/index.html"
 to = "/associations/acadia/"
 
 [[redirects]]
-from = "/organisations/categories/pathologies/malvoyance/"
+from = "/organisations/categories/pathologies/malvoyance/index.html"
 to = "/associations/categories/pathologies/malvoyance/"
 
 [[redirects]]
-from = "/diogo-rios-minaya/"
+from = "/diogo-rios-minaya/index.html"
 to = "/equipe/diogo-rios-minaya/"
 
 [[redirects]]
-from = "/organisations/categories/public/seniors/"
+from = "/organisations/categories/public/seniors/index.html"
 to = "/associations/categories/publics/seniors/"
 
 [[redirects]]
-from = "/organisations/categories/animaux/lapins/"
+from = "/organisations/categories/animaux/lapins/index.html"
 to = "/associations/categories/animaux/lapins/"
 
