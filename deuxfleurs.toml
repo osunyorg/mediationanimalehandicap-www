@@ -135,10 +135,6 @@ from = "/organisations/association-chiens-guides-grand-sud-ouest-alienor-bordeau
 to = "/associations/association-chiens-guides-grand-sud-ouest-alienor-bordeaux/"
 
 [[redirects]]
-from = "/organisations/equivia/index.html"
-to = "/associations/equivia/"
-
-[[redirects]]
 from = "/organisations/la-cape/index.html"
 to = "/associations/la-cape/"
 
